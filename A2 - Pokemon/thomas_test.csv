@@ -1,0 +1,8 @@
+id,name,level,personality,type,weakness,atk,def,hp,stage
+59,Thomas,35,impish,fire,water,50,55,90,2
+59,Thomas,35,gentle,fire,water,45,60,80,2
+121,Noah,67,sassy,water,electric,174,56,113,2
+131,Jack,71,lax,water,electric,107,113,29,1
+132,Ali,169,sassy,water,electric,107,113,29,1
+131,Cole,12,lax,electric,water,107,113,29,1
+
